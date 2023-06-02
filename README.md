@@ -2,6 +2,7 @@
 Conv-Mixer custom layer implementation in Tensorflow/Keras.
 ConvMixer is introduced in ICLR 2022 submission ["Patches Are All You Need?"](https://openreview.net/forum?id=TVHS5Y4dNvM) by Asher Trockman and Zico Kolter.
 
+> Feel free to make pull requests & suggestions. :grinning:
 
 ## How to Use
 Example code is provided in example.py file.
